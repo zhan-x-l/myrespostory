@@ -5,7 +5,7 @@ public class Demo {
 		int a=2;
 		Demo d=new Demo();	
 		d.test(a);
-		
+		System.out.println("¹þ¹þ");
 	}
 	
 	public void test(int i) {
