@@ -1,0 +1,15 @@
+package text2;
+
+/**
+ *  ≤‚ ‘‘∂≥Ã≤÷ø‚µƒµÿ÷∑
+ * @author zhanxl
+ *
+ */
+public class Text1 {
+
+	public static void main(String[] args) {
+		System.out.println("git");
+
+	}
+
+}
