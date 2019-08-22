@@ -2,7 +2,7 @@ package day0701;
 
 public abstract class Pet {
 
-	String name;//null
+String name;//null
 	int full;//0
 	int happy;//0
 	
